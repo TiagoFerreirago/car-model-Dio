@@ -1,0 +1,9 @@
+C:\Users\thdej\OneDrive\Área de Trabalho\Modulos_C#\Desafio-Final\car-model\obj\Debug\net9.0\car-model.csproj.AssemblyReference.cache
+C:\Users\thdej\OneDrive\Área de Trabalho\Modulos_C#\Desafio-Final\car-model\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\thdej\OneDrive\Área de Trabalho\Modulos_C#\Desafio-Final\car-model\obj\Debug\net9.0\car-model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thdej\OneDrive\Área de Trabalho\Modulos_C#\Desafio-Final\car-model\obj\Debug\net9.0\car-model.AssemblyInfoInputs.cache
+C:\Users\thdej\OneDrive\Área de Trabalho\Modulos_C#\Desafio-Final\car-model\obj\Debug\net9.0\car-model.AssemblyInfo.cs
+C:\Users\thdej\OneDrive\Área de Trabalho\Modulos_C#\Desafio-Final\car-model\obj\Debug\net9.0\car-model.csproj.CoreCompileInputs.cache
+C:\Users\thdej\OneDrive\Área de Trabalho\Modulos_C#\Desafio-Final\car-model\obj\Debug\net9.0\car-model.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\thdej\OneDrive\Área de Trabalho\Modulos_C#\Desafio-Final\car-model\obj\Debug\net9.0\car-model.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\thdej\OneDrive\Área de Trabalho\Modulos_C#\Desafio-Final\car-model\obj\Debug\net9.0\car-model.sourcelink.json

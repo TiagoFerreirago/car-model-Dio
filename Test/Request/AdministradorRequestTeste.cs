@@ -9,7 +9,7 @@ using System.Net.Http.Headers;
 using Car_Model.Dominio.ModelViews;
 
 [TestClass]
-public class AdministradorRequestTest
+public class AdministradorRequestTeste
 {
     [ClassInitialize]
     public static void ClassInit(TestContext context)
